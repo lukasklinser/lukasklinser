@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ currently working on hive.app
+✨ currently working on hive.app <br>
 👋 we're always looking for more great product, design and engineering talent → lk@hive.app
 
 <!--
