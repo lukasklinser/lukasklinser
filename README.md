@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ currently working on [hive.app](https://www.hive.app), enabling d2c brands to run their business on autopilot <br>
+✨ currently working on <a href="http://hive.app/" target="_blank">hive.app</a>, enabling d2c brands to run their business on autopilot <br>
 🎨 we're always looking for more great product, design and engineering talent → lk@hive.app
 
 <!--
