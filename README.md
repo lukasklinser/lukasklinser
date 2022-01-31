@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✨ currently working on hive.app <br>
-👋 we're always looking for more great product, design and engineering talent → lk@hive.app
+🎨 we're always looking for more great product, design and engineering talent → lk@hive.app
 
 <!--
 **lukasklinser/lukasklinser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
