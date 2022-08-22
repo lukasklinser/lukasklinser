@@ -2,7 +2,7 @@
 
 ✨ currently working on <a href="http://hive.app/" target="_blank">hive.app</a> ↗, enabling d2c brands to run their business on autopilot <br>
 🎨 we're always looking for more great product, design and engineering talent → lk@hive.app
-📝 other than that, i write a lot. and take a lot of photos. i'll probably publish more one day. or step by step on <a href="https://lkx.so">lkx.so</a>
+📝 other than that, i write a lot. and take a lot of photos. i'll probably publish more one day. or step by step on <a href="https://lkx.so">lkx.so</a>. i could probably talk about productivity setups and stacks for hours on end
 📱 socials: <a href="twitter.com/lukasklinser">twitter</a>, <a href="mailto:klinser.lukas@gmail.com">email</a> 
 
 <!--
