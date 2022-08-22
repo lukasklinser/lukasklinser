@@ -1,6 +1,7 @@
 ### Hey, I'm Lukas 👋
 
 ✨ currently working on <a href="http://hive.app/" target="_blank">hive.app</a> ↗, enabling d2c brands to run their business on autopilot <br>
+
 🎨 we're always looking for more great product, design and engineering talent → lk@hive.app <br>
 
 📝 other than that, i write a lot. and take photos. i'll probably publish more one day. or step by step on <a href="https://lkx.so">lkx.so</a>. i could also talk about productivity setups and stacks for hours on end. and sometimes do :)<br><br>
