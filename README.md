@@ -1,11 +1,11 @@
-### Hey, I'm Lukas 👋
+### hey, i'm lukas 👋
 
 ✨ currently working on <a href="http://hive.app/" target="_blank">hive.app</a>, building the operations cockpit for e-commerce brands. <br>
 
 🎨 we're always looking for more great product, design, and engineering talent → lk@hive.app <br>
 
-📝 other than that, i write a lot. and take photos. i'll probably publish more one day. or step by step on <a href="https://lkx.so">lkx.so</a>. i could also talk about productivity setups and stacks for hours on end. and sometimes do :)<br><br>
-📱 socials: <a href="https://twitter.com/lukasklinser">twitter</a>, <a href="mailto:klinser.lukas@gmail.com">email</a> 
+📝 on nights and weekends, i write a lot. and take photos. i'll probably publish more one day. or step by step on <a href="https://lkx.so">lkx.so</a>. i could also talk about productivity setups and stacks for hours on end. and sometimes do :)<br><br>
+📱 socials: <a href="https://twitter.com/lukasklinser">𝕏 (twitter)</a>, <a href="mailto:klinser.lukas@gmail.com">email</a> 
 
 <!--
 **lukasklinser/lukasklinser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
