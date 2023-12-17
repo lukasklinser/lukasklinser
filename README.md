@@ -2,8 +2,6 @@
 
 ✨ currently working on <a href="http://hive.app/" target="_blank">hive.app</a>, building the operations cockpit for e-commerce brands. <br>
 
-🎨 we're always looking for more great product, design, and engineering talent → lk@hive.app <br>
-
 📝 on nights and weekends, i write a lot. and take photos. i'll probably publish more one day. or step by step on <a href="https://lkx.so">lkx.so</a>. i could also talk about productivity setups and stacks for hours on end. and sometimes do :)<br><br>
 📱 socials: <a target=”_blank” href="https://twitter.com/lukasklinser">𝕏 (twitter)</a>, <a href="mailto:klinser.lukas@gmail.com">email</a> 
 
