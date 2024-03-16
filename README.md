@@ -3,7 +3,7 @@
 ✨ currently working on <a href="http://hive.app/" target="_blank">hive.app</a>, building the leading operations platform for independent commerce. <br>
 
 📝 on nights and weekends, i write a lot. and take photos. i'll publish more one day. or step by step on <a href="https://lkx.so">lkx.so</a>. i could also talk about productivity setups and stacks for hours on end. and sometimes do :)<br><br>
-📱 socials: <a target=”_blank” href="https://twitter.com/lukasklinser">𝕏 (twitter)</a> • <a href="mailto:klinser.lukas@gmail.com">email</a> 
+📱 socials: <a target=”_blank” href="https://twitter.com/lukasklinser">𝕏</a> • <a href="mailto:klinser.lukas@gmail.com">email</a> 
 
 <!--
 **lukasklinser/lukasklinser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
